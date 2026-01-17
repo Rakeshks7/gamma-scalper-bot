@@ -1,0 +1,15 @@
+IB_HOST = '127.0.0.1'
+IB_PORT = 7497  
+CLIENT_ID = 99
+
+SYMBOL = 'SPY'           
+EXPIRY = '20260220'      
+STRIKE = 500.0           
+EXCHANGE = 'SMART'
+CURRENCY = 'USD'
+
+DELTA_THRESHOLD = 50     
+MIN_TRADE_SIZE = 10      
+MAX_POSITION = 1000      
+
+SLEEP_INTERVAL = 1       
